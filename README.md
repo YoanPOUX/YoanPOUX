@@ -61,6 +61,6 @@ Quand on n'a pas le bon outil, on apprend à contourner le problème. Pas de Mac
 - 💼 LinkedIn : [in/yoan-poux-bories](https://www.linkedin.com/in/yoan-poux-bories)
 - 📸 Instagram : [yoyo_poux](https://www.instagram.com/yoyo_poux)
 - 🌍 Portfolio : [portfolio-yoan-pouxbories.vercel.app](https://portfolio-yoan-pouxbories.vercel.app/fr)
-- ✉️ Email : [email à ajouter]
+- ✉️ Email : [ypbsolutions31@gmail.com](mailto:ypbsolutions31@gmail.com)
 
 *Ouvert aux échanges sur iOS, Odoo, ou tout projet un peu fou.*
