@@ -25,17 +25,6 @@ Mon parcours : BUT Informatique (Paul Sabatier) → alternance développeur chez
 
 ---
 
-## 📦 Projets
-
-| Projet | Description |
-|---|---|
-| **InstaGuard** | App iOS qui limite mon temps sur Instagram grâce aux API Screen Time d'Apple |
-| **LifeDash** | PWA de tableau de bord de vie, 6 domaines suivis au même endroit |
-| **NutriTrack** | Web app de suivi nutritionnel avec analyse de photos de repas |
-| **Portfolio** | Mon site de développeur : [portfolio-yoan-pouxbories.vercel.app](https://portfolio-yoan-pouxbories.vercel.app/fr) |
-
----
-
 ## 🧰 Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
