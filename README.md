@@ -32,7 +32,7 @@ Mon parcours : BUT Informatique (Paul Sabatier) → alternance développeur chez
 | **InstaGuard** | App iOS qui limite mon temps sur Instagram grâce aux API Screen Time d'Apple |
 | **LifeDash** | PWA de tableau de bord de vie, 6 domaines suivis au même endroit |
 | **NutriTrack** | Web app de suivi nutritionnel avec analyse de photos de repas |
-| **Portfolio** | Mon site de développeur : [lien à ajouter] |
+| **Portfolio** | Mon site de développeur : [portfolio-yoan-pouxbories.vercel.app](https://portfolio-yoan-pouxbories.vercel.app/fr) |
 
 ---
 
@@ -58,9 +58,9 @@ Quand on n'a pas le bon outil, on apprend à contourner le problème. Pas de Mac
 
 ## 📫 On discute ?
 
-- 💼 LinkedIn : [lien à ajouter]
-- 📸 Instagram : [lien à ajouter]
-- 🌍 Portfolio : [lien à ajouter]
+- 💼 LinkedIn : [in/yoan-poux-bories](https://www.linkedin.com/in/yoan-poux-bories)
+- 📸 Instagram : [yoyo_poux](https://www.instagram.com/yoyo_poux)
+- 🌍 Portfolio : [portfolio-yoan-pouxbories.vercel.app](https://portfolio-yoan-pouxbories.vercel.app/fr)
 - ✉️ Email : [email à ajouter]
 
 *Ouvert aux échanges sur iOS, Odoo, ou tout projet un peu fou.*
