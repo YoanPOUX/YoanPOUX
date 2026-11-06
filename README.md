@@ -1,8 +1,5 @@
 # Salut, moi c'est Yoan 👋
 
-**Développeur iOS qui n'a pas de Mac. Oui, vraiment.**
-Je compile mes apps depuis Windows avec VSCode, GitHub Actions et XcodeGen. Contrainte = créativité.
-
 ---
 
 ## 🧑‍💻 Qui suis-je ?
@@ -18,7 +15,6 @@ Mon parcours : BUT Informatique (Paul Sabatier) → alternance développeur chez
 
 ## 🛠️ Ce que je fais
 
-- 📱 **iOS** : Swift, Screen Time API (FamilyControls, DeviceActivity)
 - 🌐 **Web full-stack** : Next.js, TypeScript, Tailwind, Supabase, Vercel
 - 🏭 **ERP** : intégration et personnalisation d'Odoo
 - ⚙️ **Automatisation** : n8n, workflows IA
@@ -27,7 +23,6 @@ Mon parcours : BUT Informatique (Paul Sabatier) → alternance développeur chez
 
 ## 🧰 Stack
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -39,12 +34,6 @@ Mon parcours : BUT Informatique (Paul Sabatier) → alternance développeur chez
 
 ---
 
-## 💡 Ce que je retiens
-
-Quand on n'a pas le bon outil, on apprend à contourner le problème. Pas de Mac m'a forcé à maîtriser le CI/CD bien plus tôt que prévu.
-
----
-
 ## 📫 On discute ?
 
 - 💼 LinkedIn : [in/yoan-poux-bories](https://www.linkedin.com/in/yoan-poux-bories)
@@ -52,4 +41,4 @@ Quand on n'a pas le bon outil, on apprend à contourner le problème. Pas de Mac
 - 🌍 Portfolio : [portfolio-yoan-pouxbories.vercel.app](https://portfolio-yoan-pouxbories.vercel.app/fr)
 - ✉️ Email : [ypbsolutions31@gmail.com](mailto:ypbsolutions31@gmail.com)
 
-*Ouvert aux échanges sur iOS, Odoo, ou tout projet un peu fou.*
+*Ouvert aux échanges sur Odoo ou tout projet un peu fou.*
